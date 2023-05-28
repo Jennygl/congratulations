@@ -8,8 +8,8 @@ function GiftView() {
     alt="Present with balloons"
     /></Link>
 
-    <Text><Header>Grattis Erica och Emelie!</Header>
-    <Para>Vi vill ta med er på SUP och picknicklunch under en dag i sommar. Vi bestämmer tillsammans när.</Para></Text></Body>
+    <Text><Header>Grattis kompis!</Header>
+    <Para>Jag vill ta med dig på SUP och picknicklunch under en dag i sommar. Vi bestämmer tillsammans när.</Para></Text></Body>
   )
 }
 

@@ -4,13 +4,13 @@ import {Link} from 'react-router-dom'
 function HomeView() {
   return (
     <Body>
-        <HomeHeader>Grattis Erica och Emelie</HomeHeader>
+        <HomeHeader>Grattis kompis</HomeHeader>
  <Link to="/present">
     <Gift
         src={present}
         alt="Present with balloons"/>
 </Link>
-    <HomeHeader>önskar Fanny och Jenny</HomeHeader>
+    <HomeHeader>önskar Jenny</HomeHeader>
     </Body>
   )
 }
